@@ -5,7 +5,7 @@
 "base",
 "board",
 ],
-"author": "akhmad.daniel@gmail.com",
+"author": "agungarisandi4@gmail.com",
 "category": "Education",
 'website': 'http://www.vitraining.com',
 "description": """\
