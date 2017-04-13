@@ -1,5 +1,5 @@
 {
-"name"		: "Academic Information System Day 1",
+"name"		: "Academic Information System",
 "version"	: "1.0",
 "depends"	: [
 "base",
